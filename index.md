@@ -1,12 +1,9 @@
 ## Hey! Welcome to my Blog!
 
 
-I am a Professor at The University of Queensland and I have many AI research projects underway and lots of opportunities for PhD studies. I have recently started to use fastai and the purpose of this blog is simply to document my journey.
-
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+I am a 6th Year Student at The University of Queensland studying Bachelor of Engineering and Bachelor of Computer Science. I am currently taking ELEC4630 as an Elective expanding my knowledge and interest areas in the field of Image Processing and Comptuer Vision. Thourgh this blog I hope to recount of my journey into Assignment 3 and document my learning on FastAI. So, Welcome to my Blog! 
 
 ![Image description](images/Alan-Photo-New.png)
 
-## This is a title
+## Recent Blogs
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
