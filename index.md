@@ -5,5 +5,5 @@ I am a 6th Year Student at The University of Queensland studying Bachelor of Eng
 
 ![Image description](images/Alan-Photo-New.png)
 
-## Recent Blogs
+## Recent Posts
 
