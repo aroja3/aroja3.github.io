@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Fast AI Blog by Alan Rojan
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: A simple blog by a simple man, learning his way through Machine Learning and Fast AI. Join me on this venture! ❤
 github_username: aroja3
 
 # Email and twitter are optional:
-email:
+email: alanrojan3@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
